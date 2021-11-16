@@ -16,6 +16,19 @@ body {
 #contact {
   z-index: 1000;
 }
+.navbar-light {
+  background-color: white;
+}
+.caption {
+  top:50px;
+  left:50px;
+  position: absolute;
+  display: inline-block;
+  text-align: center;
+
+}
+
+
 
 
 
